@@ -1,6 +1,6 @@
 - 🧙🏼‍♀️ Oi, Sou a Caroll 
 - 🐢 Adoro SQL (ainda aprimorando)
-- 🤖 Atualmente estudando Python 
+- 🤖 Atualmente estudando Python e LaTeX
 - 💞️ Fico feliz em analisar e compreender a lógica de códigos.
 
 
